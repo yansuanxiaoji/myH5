@@ -1,37 +1,31 @@
-## 这什么玩意
+## 这里是一个普通钟离厨子的网页
 
-You can use the [editor on GitHub](https://github.com/yansuanxiaoji/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+摩拉克斯我愿意做您的信徒啊！钟离sama我愿意当您的钱包啊！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 虽然mhy很狗，但是钟离大人很亚撒西，所以值得❤
 
-### Markdown
+❤可以1可以0，可以为先生不消停❤
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+❤可以哭可以笑，床上只想听先生叫❤
 
-```markdown
-Syntax highlighted code block
+❤可以攻可以受，可以腐烂又发臭❤
 
-# Header 1
-## Header 2
-### Header 3
+❤可以前可以后，先生是爷的心头肉❤
 
-- Bulleted
-- List
+❤可以下可以上，可以当先生的汪汪汪❤
 
-1. Numbered
-2. List
+❤公狗腰母狗骚，还能当先生的小喵喵❤
 
-**Bold** and _Italic_ and `Code` text
+❤人生有酒需当醉，一夜七次不嫌累❤
 
-[Link](url) and ![Image](src)
-```
+❤先生说得全都对，爷的甜心小宝贝❤
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+❤谁攻谁受无所谓，爷只想和先生睡❤
 
-### Jekyll Themes
+❤莫说xp太自由，这都是mhy犯的罪❤
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yansuanxiaoji/myH5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+❤下面不行上面行，办法总比困难多❤
 
-### Support or Contact
+❤为爱刀山下火海，夜夜都唱十八摸❤
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+（未完待续）
